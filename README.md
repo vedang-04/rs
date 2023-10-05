@@ -1,4 +1,4 @@
-![image](https://github.com/vedang-04/rs/assets/87962644/37cac4c4-18e8-4cbd-9fa0-d0dd09c58b5b)![image](https://github.com/vedang-04/rs/assets/87962644/902385c4-3eb4-4258-8063-4ee7310d22b6)# RECOMMENDER_SYSTEM
+# RECOMMENDER_SYSTEM
 
 # Introduction
 
@@ -33,6 +33,6 @@ Top Producing Countries
 ![image4](images/res7.PNG)
 Number of Items vs. Ratings
 
-![image5](images/res5.PNG)
-![image6](images/res5.PNG)
+![image5](images/res8.PNG)
+![image6](images/res9.PNG)
 Top Genres: Movies (R); TV Shows (L) 
