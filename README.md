@@ -1,4 +1,4 @@
-# RECOMMENDER_SYSTEM
+![image](https://github.com/vedang-04/rs/assets/87962644/3e06bfa2-a775-44c4-85b5-2151511d5207)![image](https://github.com/vedang-04/rs/assets/87962644/830fcf06-7675-4c77-a716-ffb980b8a80c)# RECOMMENDER_SYSTEM
 
 # Introduction
 
@@ -35,4 +35,19 @@ Number of Items vs. Ratings
 
 ![image5](images/res8.PNG)
 ![image6](images/res9.PNG)
-Top Genres: Movies (R); TV Shows (L) 
+Top Genres: Movies (T); TV Shows (R)
+
+# Model
+
+The top 10 recommendations are given for Kota Factory based on Content-Based Filtering. 
+![image7](images/res10.PNG)
+
+The top 10 recommendations are given for Avengers: Infinity War based on Content-Based Filtering.
+![image8](images/res12.PNG)
+
+# Metrics
+No metrics are evaluated there is no explicit test dataset to represent the correct answers. 
+
+ based on Content-Based Filtering. 
+
+
