@@ -47,7 +47,3 @@ The top 10 recommendations are given for Avengers: Infinity War based on Content
 
 # Metrics
 No metrics are evaluated there is no explicit test dataset to represent the correct answers. 
-
- based on Content-Based Filtering. 
-
-
