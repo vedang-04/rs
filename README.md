@@ -2,7 +2,7 @@
 
 # Introduction
 
-For more details, refer to [PPT](https://docs.google.com/presentation/d/1jWxrQbYE8iKIu6eRRn7o7LtaAg4HCvXw/edit?usp=sharing&ouid=115224514884735671589&rtpof=true&sd=true).
+For more details, refer to [PPT](https://docs.google.com/presentation/d/1jWxrQbYE8iKIu6eRRn7o7LtaAg4HCvXw/edit?usp=sharing&ouid=115224514884735671589&rtpof=true&sd=true).<br>
 Building a content-based recommendation system by calculating the item-item interaction from the given data. Inputting the valid NETFLIX name of the Movie or the TV Show will lead to the model making the description of the content-based recommendations.<br>
 
 # Description
