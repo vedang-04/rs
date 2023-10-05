@@ -1,4 +1,4 @@
-![image](https://github.com/vedang-04/rs/assets/87962644/3e06bfa2-a775-44c4-85b5-2151511d5207)![image](https://github.com/vedang-04/rs/assets/87962644/830fcf06-7675-4c77-a716-ffb980b8a80c)# RECOMMENDER_SYSTEM
+# RECOMMENDER_SYSTEM
 
 # Introduction
 
